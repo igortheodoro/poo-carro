@@ -1,0 +1,11 @@
+/home/igor/Área de Trabalho/Carro/bin/Debug/netcoreapp3.1/Carro
+/home/igor/Área de Trabalho/Carro/bin/Debug/netcoreapp3.1/Carro.deps.json
+/home/igor/Área de Trabalho/Carro/bin/Debug/netcoreapp3.1/Carro.runtimeconfig.json
+/home/igor/Área de Trabalho/Carro/bin/Debug/netcoreapp3.1/Carro.runtimeconfig.dev.json
+/home/igor/Área de Trabalho/Carro/bin/Debug/netcoreapp3.1/Carro.dll
+/home/igor/Área de Trabalho/Carro/bin/Debug/netcoreapp3.1/Carro.pdb
+/home/igor/Área de Trabalho/Carro/obj/Debug/netcoreapp3.1/Carro.csprojAssemblyReference.cache
+/home/igor/Área de Trabalho/Carro/obj/Debug/netcoreapp3.1/Carro.AssemblyInfoInputs.cache
+/home/igor/Área de Trabalho/Carro/obj/Debug/netcoreapp3.1/Carro.AssemblyInfo.cs
+/home/igor/Área de Trabalho/Carro/obj/Debug/netcoreapp3.1/Carro.dll
+/home/igor/Área de Trabalho/Carro/obj/Debug/netcoreapp3.1/Carro.pdb
